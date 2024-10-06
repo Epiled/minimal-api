@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj": {}
+    "D:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj": {}
   },
   "projects": {
-    "d:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj": {
+    "D:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj",
+        "projectUniqueName": "D:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj",
         "projectName": "minimal-api",
-        "projectPath": "d:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj",
+        "projectPath": "D:\\felip\\Documents\\Dio\\C#\\minimal-api\\minimal-api.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "d:\\felip\\Documents\\Dio\\C#\\minimal-api\\obj\\",
+        "outputPath": "D:\\felip\\Documents\\Dio\\C#\\minimal-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
